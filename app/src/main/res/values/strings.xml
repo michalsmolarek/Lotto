@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lotto</string>
+    <string name="generuj_liczby">Generuj liczby</string>
+    <string name="naci_nij_poni_szy_przycisk">Naciśnij poniższy przycisk...</string>
+    <string name="logo_lotto">Logo lotto</string>
+</resources>
